@@ -1,4 +1,7 @@
 #carouselExampleIndicators{
-  text-align: center; 
-   
+  text-align: center;    
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  filter: invert(108%);
 }
